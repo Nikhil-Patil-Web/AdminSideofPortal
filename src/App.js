@@ -16,6 +16,7 @@ function App() {
 
   return (
     <>
+      <div> I have added a new branch to the code</div>
       <Navbar bg='dark' variant='dark' className='header'>
         <Container>
           <Navbar.Brand href='#home'>Library - Firebase CRUD</Navbar.Brand>
